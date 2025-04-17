@@ -1,0 +1,10 @@
+# Ignorar configurações do IntelliJ IDEA / PyCharm
+.idea/
+
+# Ignorar o ambiente virtual
+.venv/
+
+# Ignorar outros arquivos gerados automaticamente
+*.pyc
+*.pyo
+__pycache__/
